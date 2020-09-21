@@ -51,5 +51,5 @@ The application creates one example scene where the positions of the components 
 
 The layout specification is translated into a system of constraints, which is then solved by [Furlong](https://github.com/patrick7777776/Furlong), yielding concrete positions and dimensions.
 
-If you want to pursue this topic in a more serious manner, I recommend studying Enaml and starting from scratch. 
+If you want to pursue this topic in a more serious fashion, I recommend studying [Enaml](https://kiwisolver.readthedocs.io/en/latest/use_cases/enaml.html) and starting from scratch. 
 
